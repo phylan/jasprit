@@ -1,6 +1,6 @@
-# Tendulkar
+# Jasprit
 
-**TODO: Add description**
+A player probability based cricket simulator
 
 ## Installation
 
